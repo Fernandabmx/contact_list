@@ -48,7 +48,7 @@ var persona1 = new Contacto(
 
 var persona2 = new Contacto(
   2,
-  "Fernanda",
+  "Maria",
   "Sanabria",
   "3227408884",
   ["Ubicacion1", "Ubicacion2"],
